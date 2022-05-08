@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "242151702853",
+    "project_id": "bioshop-cbc5f",
+    "storage_bucket": "bioshop-cbc5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242151702853:android:df48dfc6d0d8799966be2c",
+        "android_client_info": {
+          "package_name": "com.example.bioshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242151702853-9kslktaqdfqgdmi1267gp1r5ie0usouj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bioshop",
+            "certificate_hash": "cdb51703e2bcc53afd3be6c08c0d907b5e790e92"
+          }
+        },
+        {
+          "client_id": "242151702853-qn828l3a5aid0hgugkq7e1senbrd79b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc9P7wmYKattNO3WsT2SoCJfFzraboqA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242151702853-qn828l3a5aid0hgugkq7e1senbrd79b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BioShop</string>
+    <string name="name">Név</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="product_description">Termék leírása.</string>
+    <string name="userName">Felhasználó név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email">E-mail cím</string>
+    <string name="passwordConfirm">Jelszó megerősítése</string>
+    <string name="cancel">mégse</string>
+    <string name="phoneNumber">Telefonszám</string>
+    <string name="postAddress">cím</string>
+    <string name="buyer">vásárló</string>
+    <string name="seller">eladó</string>
+    <string name="accountType">felhasználó típusa</string>
+    <string name="welcome">Üdvözöljük</string>
+    <string name="logAnonym">Bejelentkezés vendégként</string>
+    <string name="logEmail">Bejelentkezés e-mail-el</string>
+    <string name="logGoogle">Bejelentkezés google fiókkal</string>
+    <string name="logout">Kijelentekzés</string>
+    <string name="space">space</string>
+    <string name="male">férfi</string>
+    <string name="female">nő</string>
+    <string-array name="phone_labels">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+    </string-array>
+</resources>
